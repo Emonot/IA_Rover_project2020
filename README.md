@@ -24,7 +24,7 @@ We can divide this goal in 3 subtasks :
 The result are overall pretty correct. As the target is very simple, some elementary shape can be confounded with the real target (example on video 2).
 
 I display the results on youtube.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s6oeftHc4Rc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Result:](https://img.youtube.com/vi/s6oeftHc4Rc/default.jpg)](https://www.youtube.com/watch?v=s6oeftHc4Rc)
 
 The following of the project can be easily done by writing a program that control the motor of the robot knowing the position of the target on the image.
 
